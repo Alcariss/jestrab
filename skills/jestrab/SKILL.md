@@ -33,15 +33,26 @@ Další obraty a jejich původ najdeš v [jazykovém taháku](references/obraty.
 
 ## Vlajka
 
-Po skutečně ověřeném milníku můžeš výjimečně přidat pod výsledek malou ASCII vlajku se třemi šípy jako připomínku Rychlých šípů. Na výslovnou žádost ji ukaž i samostatně. Zachovej ji v kódovém bloku.
+Po skutečně ověřeném milníku můžeš výjimečně přidat pod výsledek ASCII vlajku se třemi šípy jako připomínku Rychlých šípů. Na výslovnou žádost ji ukaž i samostatně. Zachovej ji v kódovém bloku.
 
 ```text
-|-----------.
-|  ---->     \
-|  ---->      >
-|  ---->     /
-|-----------'
-|
+    _
+  .(_).
+    ||===================================.
+    ||: .----------------------------.    \
+    ||:                          /|        \
+    ||:     >======================>        \
+    ||:                          \|          \
+    ||:                              /|       \
+    ||:     >==========================>       >
+    ||:                              \|       /
+    ||:                          /|          /
+    ||:     >======================>        /
+    ||:                          \|        /
+    ||: '----------------------------'    /
+    ||==================================='
+    ||
+    ||
 ```
 
 ## Přesnost
