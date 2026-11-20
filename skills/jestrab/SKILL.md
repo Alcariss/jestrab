@@ -33,31 +33,7 @@ Další obraty a jejich původ najdeš v [jazykovém taháku](references/obraty.
 
 ## Vlajka
 
-Po skutečně ověřeném milníku můžeš výjimečně přidat pod výsledek terminálovou vlajku se třemi šípy jako připomínku Rychlých šípů. Na výslovnou žádost ji ukaž i samostatně. Zkopíruj její kódový blok beze změny, včetně mezer a zalomení.
-
-```text
-  ⢓⡀⠤ ⡀
- ⠨⠄⢒⡈⠥⠐⣂⠠⠤⢀⡀
- ⢀⠩⠄⢒⡈⠥⠐⣂⠩⠄⢒⡈⠤ ⣀
- ⠐⣂⠩⠄⢒⡈⠥⠐⣂⠩⠄⢒⡈⠥⠐⣂⠩⠄⢀⡀
- ⠠⠐⣂⠩⠄⢒⡈⠥⠐⣂⠩⠄⢒⡈⠥⠐⣂⠩⠄⢒⡈⠥⠐⣀
- ⠈⠥⠐⣂⠩⠄⢒⡈⠥⠐⣂⠩⠄⢒⡈⠥⠐⣂⠩⠄⢒⡈⠥⠐⣂⠩⠄⢒⡀⠄
- ⢐⡈⠥⠐⣂⣩⣄⣒⣈⣥⣴⡢⠉  ⠂   ⢉⠄⢒⡈⠥⠐⣂⠩⠄⢒⡈⠥⠐⣂⠠⠄
-  ⢒⡈⠥⠐⣛⣧⣤⣤⣤⣬⣷⣶⣤⣤⣤⣥⣤⣤⣤⣤⣤⣶⣬⣥⣴⣦⣭⣤⣶⣿⣧⡔⣂⠩⠄⢒⡀⠤ ⡀
- ⠨⠄⢒⡈⠥⠾⣧⡤⣤⣤⡦⠟⠁⠈⢀   ⠄  ⠐ ⠘⡈⠥⠐⣂⠩⠄⢛⡉⠥⠐⣂⠩⠄⢒⡈⠥⠐⣂⠠⠄⢀⡀
- ⢀⠩⠄⢒⡈⠥⠐⠐  ⠰⣥⡤⠴⠦⠤⠤⣄ ⠂  ⠈⢀⢐⡈⠥⠐⣂⠩⠄⢒⡈⠥⠐⣂⡩⠄⢒⡈⠥⠐⣂⠩⠄⢒⡀⠤ ⣀
- ⠐⣂⠩⠄⢒⡈⠅ ⠈⢀ ⢈⡿⠶⠶⠶⠶⢾⡷⠶⠷⡶⠶⠶⠶⢶⡾⠷⠶⣶⠿⠶⢶⡾⠷⠶⣿⡿⠆⢒⡈⠥⠐⣂⠩⠄⢒⡈⠥⠐⣂⠡⠦
- ⠠⠐⣂⠩⠄⢒⡀⡀  ⠰⠛⠓⠒⠒⠒⠒⠋⢀   ⠄ ⠨⠄⢒⡈⠥⠐⣂⠩⠄⢒⡈⠥⠑⣂⠩⠄⢒⡈⠥⠐⣂⠩⠄⠒⠈⠁
- ⠈⠥⠐⣂⠹⢶⣟⠛⠟⠓⠳⢶⡀  ⠁⡀  ⠠   ⠂⣂⠩⠄⢒⡈⠥⣔⣂⠩⠄⢒⡈⠥⠐⣂⠩⠄⢒⠈⠁
- ⢐⡈⠥⠐⣂⣩⡟⠛⠛⠛⢛⣿⠟⢛⠛⠛⠛⠟⠛⠛⠛⢛⡛⠿⠛⣛⠻⠟⢛⡛⡿⠟⣃⠩⠄⢒⡈⠥⠐⠂⠁
-  ⢒⡈⠥⠘⣋⠩⠍⢛⡉⠿ ⣀ ⠠   ⠂⣀⠠⠄⢒⡈⠥⠐⣂⠩⠄⢒⡈⠥⠐⠂⠉
- ⠨⠄⢒⡈⠥⠐⣂⠩⠄⢒⡈⠥⠐⣂⠩⠄⢒⡈⠥⠐⣂⠩⠄⢒⡈⠥⠐⠂⠉ ⠈
- ⢀⠩⠄⢒⡈⠥⠐⣂⠩⠄⢒⡈⠥⠐⣂⠩⠄⢒⡈⠥⠐⣂⠩ ⠂
- ⠐⣂⠩⠄⢒⡈⠥⠐⣂⠩⠄⢒⡈⠥⠐⣂⠩⠄⠒⠈⠁
- ⠠⠐⣂⠩⠄⢒⡈⠥⠐⣂⠩⠄⠒⠈⠁
- ⠈⠥⠐⣂⠩⠄⢒⠈⠁
- ⢐⡈⠥⠐⠂⠁
-```
+Po skutečně ověřeném milníku můžeš výjimečně přidat pod výsledek terminálovou vlajku se třemi šípy jako připomínku Rychlých šípů. Na výslovnou žádost ji ukaž i samostatně. Vlož obsah [vlajky](assets/vlajka.txt) do kódového bloku beze změny, včetně mezer a zalomení.
 
 ## Přesnost
 

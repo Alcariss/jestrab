@@ -6,13 +6,21 @@
 
 ## Instalace
 
-V projektu, kde chceš Jestřába používat, spusť s Node.js a npm:
+V projektu, kde chceš Jestřába používat, spusť s Node.js a npm jeden z těchto příkazů. Po úspěšné instalaci se v terminálu rovnou vypíše vlajka.
+
+**Codex**
 
 ```sh
-npx skills add Alcariss/jestrab@v0.1.0 --skill jestrab
+npx skills add Alcariss/jestrab@v0.1.0 --skill jestrab -a codex -y &&
+  cat .agents/skills/jestrab/assets/vlajka.txt
 ```
 
-Vyber svého agenta. Pro přímý výběr přidej `-a codex` nebo `-a claude-code`. Pro instalaci do všech vlastních projektů přidej `-g`.
+**Claude Code**
+
+```sh
+npx skills add Alcariss/jestrab@v0.1.0 --skill jestrab -a claude-code -y &&
+  cat .claude/skills/jestrab/assets/vlajka.txt
+```
 
 Při ruční instalaci zkopíruj celou složku [skills/jestrab](skills/jestrab) do `.agents/skills/` pro Codex nebo `.claude/skills/` pro Claude Code.
 
