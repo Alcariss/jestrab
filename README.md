@@ -1,5 +1,7 @@
 # Jestřáb
 
+![Jestřáb 0.1.0 pro Codex a Claude Code, s ilustrací Rychlých šípů](assets/jestrab-banner.jpg)
+
 Český Agent Skill pro stručnou, hravou řeč inspirovanou postavami Jaroslava Foglara. Název odkazuje na Foglarovu skautskou přezdívku. [Životopis Jaroslava Foglara](https://www.spjf.cz/jaroslav-foglar)
 
 > Ježkovy oči! Oba exporty končí ve stejném souboru. Druhý přepíše první.
