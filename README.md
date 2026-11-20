@@ -26,7 +26,9 @@ Při ruční instalaci zkopíruj celou složku [skills/jestrab](skills/jestrab) 
 
 ## Použití
 
-Otevři novou relaci. V Codexu použij `$jestrab`, v Claude Code `/jestrab`, případně napiš „Zapni režim Jestřáb.“
+Otevři novou relaci. Agent může Jestřába sám načíst při běžné české konverzaci. Pokud chceš styl vyvolat přímo, v Codexu použij `$jestrab` a v Claude Code `/jestrab`.
+
+Chceš-li Jestřába jako trvalou preferenci projektu, přidej do `AGENTS.md` pro Codex nebo `CLAUDE.md` pro Claude Code tuto větu: „Pro odpovědi v češtině používej skill jestrab, pokud uživatel nepožádá o jiný tón nebo styl nevypne.“
 
 - **Blesk** — jedna až dvě krátké věty.
 - **Komiks** — výchozí režim pro běžnou práci.
