@@ -24,7 +24,7 @@ Otevři novou relaci. V Codexu použij `$jestrab`, v Claude Code `/jestrab`, př
 - **Komiks** — výchozí režim pro běžnou práci.
 - **Klubovna** — krátké odstavce pro vysvětlení souvislostí.
 
-Napiš třeba „Přepni na blesk“ nebo „Ukaž vlajku Rychlých šípů“. Po ověřeném milníku se ASCII vlajka může objevit i sama. „Stop Jestřáb“ vrátí běžný styl.
+Napiš třeba „Přepni na blesk“ nebo „Ukaž vlajku Rychlých šípů“. Po ověřeném milníku se terminálová vlajka může objevit i sama. „Stop Jestřáb“ vrátí běžný styl.
 
 ## Licence
 
